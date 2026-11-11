@@ -1,3 +1,2 @@
-# Serve static verification and sitemap files directly without rewrites
-/92b846cff06948c0a19972230f218194.txt  /92b846cff06948c0a19972230f218194.txt  200!
-/photos-sitemap.xml                     /photos-sitemap.xml                     200!
+/92b846cff06948c0a19972230f218194.txt  /public/92b846cff06948c0a19972230f218194.txt  200
+/photos-sitemap.xml                     /public/photos-sitemap.xml                     200
